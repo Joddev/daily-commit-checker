@@ -12,3 +12,4 @@ const users = [
     '$GITHUB_NICKNAME:$SLACK_MEMBER_ID'
 ]
 ```
+
